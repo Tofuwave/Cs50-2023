@@ -2,6 +2,8 @@
 #### Video Demo: https://youtu.be/5mq0pYfeNy4?si=8wngDt0NgH92DQxo
 #### Description: Dive into the vastness of the cosmos with this captivating project—an intricate simulation of our Solar System meticulously crafted using the dynamic Python library, Pygame. As you embark on this cosmic odyssey, fasten your seatbelts for a thrilling journey filled with laughter, head-scratching moments, and an exhilarating coding adventure that explores unexpected terrains.
 
+![Screenshot 2024-04-27 204222](https://github.com/Tofuwave/Cs50-2023/assets/66047380/0ea61448-6ba0-499a-8852-faacdbd92302)
+
 In the quest to breathe life into this celestial spectacle, I found myself delving deep into the dusty archives of my high school math memories. The internet swiftly became my trusty sidekick, accompanying me on a quest for the profound knowledge required to intricately model the celestial dance of planets.
 
 But what emerged as the true luminary of this cosmic show? Wrestling with the complexities of gravity. Translating those abstract cosmic musings into elegant Python code felt like deciphering an intricate puzzle—a symphony with the universe, where each line of code became a conduit for decoding the secrets of the cosmos.
