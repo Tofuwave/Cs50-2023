@@ -1,4 +1,4 @@
-# Solar50 - A Solar System Symulation 
+# Solar50 - A Solar System Simulation 
 #### Video Demo: https://youtu.be/5mq0pYfeNy4?si=8wngDt0NgH92DQxo
 #### Description: Dive into the vastness of the cosmos with this captivating project—an intricate simulation of our Solar System meticulously crafted using the dynamic Python library, Pygame. As you embark on this cosmic odyssey, fasten your seatbelts for a thrilling journey filled with laughter, head-scratching moments, and an exhilarating coding adventure that explores unexpected terrains.
 
